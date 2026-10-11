@@ -21,6 +21,19 @@ Driven by a strong foundational background in managing critical infrastructure r
 
 ---
 
+## What I'm Working On
+- 5-month transition: L2/DR to Platform Engineer
+- Building: [incident-journal](link) | [dr-dashboard](link)
+- Learning: Terraform, Kubernetes, GitHub Actions
+
+## Recent Incidents
+- [Inode Exhaustion](link) — SEV-2, 12 min resolution
+- [OOM Killer](link) — SEV-1, 8 min resolution
+- [LVM Metadata Corruption](link) — SEV-2, 20 min resolution
+
+## Tech Stack
+Linux · Bash · Python scripting (basic) · AWS · Docker · Git · systemd · LVM · SELinux
+---
 ### 🧠 Current Focus Areas (Targeting March 2027)
 *   Automating multi-cloud disaster recovery failovers natively using **Terraform**.
 *   Integrating basic **AIOps & Automated DevSecOps** checks directly into Git pipelines for active code risk analysis.
